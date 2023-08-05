@@ -1,0 +1,9 @@
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/HelloWorld.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/HelloWorld_autogen_timestamp_deps.dir
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/HelloWorld_autogen.dir
