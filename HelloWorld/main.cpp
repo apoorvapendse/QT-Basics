@@ -21,6 +21,8 @@ void mixQTandStd(){
     QString name = qin.readLine();
     qInfo()<<"Hey, there"<<name;
 }
+
+
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
 

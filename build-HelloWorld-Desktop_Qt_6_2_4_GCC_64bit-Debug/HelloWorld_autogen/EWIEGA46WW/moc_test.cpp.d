@@ -1,12 +1,5 @@
-HelloWorld_autogen/timestamp: \
-  /home/apoorva/Documents/GitHub/QT-Basics/HelloWorld/CMakeLists.txt \
-  /home/apoorva/Documents/GitHub/QT-Basics/HelloWorld/main.cpp \
-  /home/apoorva/Documents/GitHub/QT-Basics/HelloWorld/test.cpp \
-  /home/apoorva/Documents/GitHub/QT-Basics/HelloWorld/test.h \
-  .qtc/package-manager/auto-setup.cmake \
-  CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.24.2/CMakeSystem.cmake \
-  HelloWorld_autogen/moc_predefs.h \
+/home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/HelloWorld_autogen/EWIEGA46WW/moc_test.cpp: /home/apoorva/Documents/GitHub/QT-Basics/HelloWorld/test.h \
+  /home/apoorva/Documents/GitHub/QT-Basics/build-HelloWorld-Desktop_Qt_6_2_4_GCC_64bit-Debug/HelloWorld_autogen/moc_predefs.h \
   /home/apoorva/Qt/6.2.4/gcc_64/include/QtCore/QDebug \
   /home/apoorva/Qt/6.2.4/gcc_64/include/QtCore/QObject \
   /home/apoorva/Qt/6.2.4/gcc_64/include/QtCore/qalgorithms.h \
@@ -81,70 +74,6 @@ HelloWorld_autogen/timestamp: \
   /home/apoorva/Qt/6.2.4/gcc_64/include/QtCore/qutf8stringview.h \
   /home/apoorva/Qt/6.2.4/gcc_64/include/QtCore/qvarlengtharray.h \
   /home/apoorva/Qt/6.2.4/gcc_64/include/QtCore/qversiontagging.h \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6Config.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6Dependencies.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6Targets.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtFeature.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtFeatureCommon.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
-  /home/apoorva/Qt/6.2.4/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeParseArguments.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/CheckLibraryExists.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/GNU.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/FindThreads.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux.cmake \
-  /home/apoorva/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/UnixPaths.cmake \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/assert.h \
@@ -408,5 +337,4 @@ HelloWorld_autogen/timestamp: \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
-  /home/apoorva/Qt/Tools/CMake/bin/cmake
+  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h
