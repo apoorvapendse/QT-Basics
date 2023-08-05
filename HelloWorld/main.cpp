@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <QTextStream>
+#include<QDebug>
 
 void greet() {
     QTextStream qout(stdout);
@@ -13,10 +14,18 @@ void greet() {
     qout << "\nYour name is " << name << "\n";
 }
 
+
+void mixQTandStd(){
+    QTextStream qin(stdin);
+    qInfo()<<"Please Enter Your Name";
+    QString name = qin.readLine();
+    qInfo()<<"Hey, there"<<name;
+}
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
 
-    greet();
+//    greet();
+    mixQTandStd();
 
     return a.exec();
 }
